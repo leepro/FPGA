@@ -16,3 +16,6 @@
 
 ## Community
 * https://www.reddit.com/r/linux/comments/3wq6g8/fpga_for_a_beginner/
+
+## Linux
+* http://xillybus.com/xillinux
