@@ -24,3 +24,6 @@
 ## Hardware Boards
 * http://tinyfpga.com/
 * https://www.altera.com/solutions/partners/partner-profile/terasic-inc-/board/cyclone-v-gx-starter-kit.html
+* https://store.digilentinc.com/arty-a7-artix-7-fpga-development-board-for-makers-and-hobbyists/
+* https://shop.trenz-electronic.de/en/26283-Nexys-4-DDR-Artix-7-FPGA-acad-Trainer-Board-Recommended-for-ECE-Curriculum?c=120
+* https://github.com/MiSTer-devel/Main_MiSTer/wiki
