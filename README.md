@@ -15,6 +15,7 @@
 * AWS EC2 F1 https://aws.amazon.com/ec2/instance-types/f1/
 
 ## Community
+* https://www.reddit.com/r/FPGA/
 * https://www.reddit.com/r/linux/comments/3wq6g8/fpga_for_a_beginner/
 
 ## Linux
