@@ -20,3 +20,7 @@
 
 ## Linux
 * http://xillybus.com/xillinux
+
+## Hardware Boards
+* http://tinyfpga.com/
+* https://www.altera.com/solutions/partners/partner-profile/terasic-inc-/board/cyclone-v-gx-starter-kit.html
